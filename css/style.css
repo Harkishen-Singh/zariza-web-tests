@@ -67,6 +67,8 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   opacity: 1;
   top: 0;
+  
+  
 }
 #fh5co-header .navbar {
   padding-bottom: 0;
@@ -683,6 +685,11 @@ h1, h2, h3, h4, h5, h6 {
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
   border-radius: 5px;
+}
+
+.fh5co-team{
+  max-height: 700px;
+    overflow: scroll;
 }
 @media screen and (max-width: 992px) {
   #fh5co-team .team-box {
